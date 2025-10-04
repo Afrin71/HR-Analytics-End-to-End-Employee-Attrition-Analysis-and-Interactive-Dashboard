@@ -1,0 +1,2 @@
+# HR-Analytics-End-to-End-Employee-Attrition-Analysis-and-Interactive-Dashboard
+This project provides an end-to-end HR Analytics solution focused on Employee Attrition. It moves beyond standard exploratory analysis to include in-depth statistical modeling and the creation of an interactive data dashboard. The goal is to provide HR and management teams with actionable insights to reduce employee turnover.
