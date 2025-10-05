@@ -1,2 +1,11 @@
 # HR-Analytics-End-to-End-Employee-Attrition-Analysis-and-Interactive-Dashboard
-This project provides an end-to-end HR Analytics solution focused on Employee Attrition. It moves beyond standard exploratory analysis to include in-depth statistical modeling and the creation of an interactive data dashboard. The goal is to provide HR and management teams with actionable insights to reduce employee turnover.
+Developed data analytics project focused on understanding employee attrition trends and workforce patterns using real-world HR datasets. The project involved cleaning, exploring, and validating data, followed by statistical analysis and visualization to uncover key drivers of employee turnover. An interactive dashboard was built to empower HR teams with actionable insights for workforce planning.
+
+🔹 Technologies: Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly Dash
+
+🔹 Features:
+- Data cleaning & transformation
+- Exploratory Data Analysis (EDA) to identify attrition reason
+- Visualizations: Age distribution, attrition vs. benching, experience vs. tenure
+- Statistical correlation & variance analysis of workforce metrics
+- Interactive Dashboard: Dynamic filters for gender, tenure, payment tier, and bench status
